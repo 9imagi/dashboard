@@ -1,3 +1,8 @@
+const customers = [
+  { id: "cust_001", name: "John Doe" },
+  { id: "cust_002", name: "Jane Smith" },
+];
+
 const invoices = [
   {
     customer_id: customers[0].id,
