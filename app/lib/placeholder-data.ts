@@ -1,6 +1,6 @@
 const customers = [
   { id: "cust_001", name: "John Doe" },
-  { id: "cust_002", name: "Jane Smith" },
+  { id: "cust_002", name: "Jane Smith" }, //added this array yo make this a placeholder till i create a database
 ];
 
 const invoices = [
