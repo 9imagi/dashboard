@@ -5,7 +5,7 @@ const customers = [
 
 const invoices = [
   {
-    customer_id: customers[0].id,
+    customer_id: customers[0].id, //now the custoner id dosent show erroes again
     amount: 15795,
     status: "pending",
     date: "2022-12-06",
